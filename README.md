@@ -2,13 +2,17 @@
 
 ## OM-Lab软件定义
 
+
+
 ## 概要设计点
 
-主要考虑点：
+1\) ANT-DESIGN框架
+
+2）REACT-REDUX
+
+3\) GRID 为什么要选
 
 ## 概要设计产品目标参考图![](/assets/om－lab-om-lab-copy.png)
-
-
 
 
 
